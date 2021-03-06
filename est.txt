@@ -1,0 +1,4 @@
+Hello, This is a text file,
+
+I'm using it to practice whether I'm capable to send email by using this file
+or not. Next time , I will use an attachment. I'm really very happy today.
